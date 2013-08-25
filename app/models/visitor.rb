@@ -30,3 +30,4 @@ class Visitor < ActiveRecord::Base
     ws.save
   end
 end
+
